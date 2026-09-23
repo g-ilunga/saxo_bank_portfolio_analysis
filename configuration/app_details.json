@@ -1,0 +1,9 @@
+{
+   "app_key": "YOUR APP KEY HERE",
+   "authorization_endpoint": "https://live.logonvalidation.net/authorize",
+   "token_endpoint": "https://live.logonvalidation.net/token",
+   "redirect_url": "http://localhost:8000/callback",
+   "app_secrets1":"YOUR APP SECRET HERE",
+   "app_secrets2":"YOUR APP SECRET HERE",
+   "scopes": ["read", "offline_access"]
+}
