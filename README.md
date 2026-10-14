@@ -13,5 +13,5 @@ In this repository I included the full script I developed to achieve the purpose
 
 [Part 5 - Analysing Sector and Geographic Exposure](https://medium.com/@ilunga.gus/building-a-saxo-bank-portfolio-analytics-tool-with-python-and-saxo-openapi-part-5-40f39eb8b2bb)
 
-Conclusion
+[Conclusion](https://medium.com/@ilunga.gus/building-a-saxo-bank-portfolio-analytics-tool-with-python-and-saxo-openapi-conclusion-0e4d67c4be24?sharedUserId=ilunga.gus)
 
