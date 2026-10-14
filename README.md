@@ -13,3 +13,5 @@ Part 4 - Retrieving portfolio composition : https://medium.com/@ilunga.gus/build
 
 Part 5 - Analysing Sector and Geographic Exposure : https://medium.com/@ilunga.gus/building-a-saxo-bank-portfolio-analytics-tool-with-python-and-saxo-openapi-part-5-40f39eb8b2bb
 
+Conclusion
+
