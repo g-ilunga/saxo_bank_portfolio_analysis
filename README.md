@@ -3,9 +3,9 @@ The purpose of this project was to analyse the sectoral and geographical allocat
 
 In this repository I included the full script I developed to achieve the purpose of this project. I wrote a series of articles on Medium to explains the full process of building this script. The articles are listed below:
 
-Part 1 - Why this project?: https://medium.com/@ilunga.gus/how-to-build-a-saxobank-portfolio-analytics-with-python-part-1-why-this-project-d4650c52d2a5
+[Part 1 - Why this project?](https://medium.com/@ilunga.gus/how-to-build-a-saxobank-portfolio-analytics-with-python-part-1-why-this-project-d4650c52d2a5)
 
-Part 2 - Setting up an account on the Saxo Developer Portal : https://medium.com/@ilunga.gus/building-a-saxobank-portfolio-analytics-with-python-part-2-1e4c25adea34
+[Part 2 - Setting up an account on the Saxo Developer Portal](https://medium.com/@ilunga.gus/building-a-saxobank-portfolio-analytics-with-python-part-2-1e4c25adea34)
 
 Part 3 - Authenticating with Saxo OpenAPI : https://medium.com/@ilunga.gus/building-a-saxobank-portfolio-analytics-with-python-part-3-95dfe8f86931
 
