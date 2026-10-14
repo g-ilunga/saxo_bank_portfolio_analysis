@@ -7,11 +7,11 @@ In this repository I included the full script I developed to achieve the purpose
 
 [Part 2 - Setting up an account on the Saxo Developer Portal](https://medium.com/@ilunga.gus/building-a-saxobank-portfolio-analytics-with-python-part-2-1e4c25adea34)
 
-Part 3 - Authenticating with Saxo OpenAPI : https://medium.com/@ilunga.gus/building-a-saxobank-portfolio-analytics-with-python-part-3-95dfe8f86931
+[Part 3 - Authenticating with Saxo OpenAPI](https://medium.com/@ilunga.gus/building-a-saxobank-portfolio-analytics-with-python-part-3-95dfe8f86931)
 
-Part 4 - Retrieving portfolio composition : https://medium.com/@ilunga.gus/building-a-saxo-bank-portfolio-analytics-tool-with-python-and-saxo-openapi-part-4-358284ea8a2e
+[Part 4 - Retrieving portfolio composition](https://medium.com/@ilunga.gus/building-a-saxo-bank-portfolio-analytics-tool-with-python-and-saxo-openapi-part-4-358284ea8a2e)
 
-Part 5 - Analysing Sector and Geographic Exposure : https://medium.com/@ilunga.gus/building-a-saxo-bank-portfolio-analytics-tool-with-python-and-saxo-openapi-part-5-40f39eb8b2bb
+[Part 5 - Analysing Sector and Geographic Exposure](https://medium.com/@ilunga.gus/building-a-saxo-bank-portfolio-analytics-tool-with-python-and-saxo-openapi-part-5-40f39eb8b2bb)
 
 Conclusion
 
