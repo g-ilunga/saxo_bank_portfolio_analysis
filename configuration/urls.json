@@ -1,6 +1,0 @@
-{
-   "base": "https://gateway.saxobank.com/openapi",
-   "get_account" : "https://gateway.saxobank.com/openapi/port/v1/accounts/me",
-   "get_balance": "https://gateway.saxobank.com/openapi/port/v1/balances",
-   "get_positions" :"https://gateway.saxobank.com/openapi/port/v1/positions"
-}
